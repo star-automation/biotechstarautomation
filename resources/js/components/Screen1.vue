@@ -4,7 +4,7 @@
         {{getData()}}
         <img src="images/latestScreen1.png" :style="{'width':'100%','height':'100%'}"/>
         <div style="position: absolute;top: 80px;left: 51px;">
-            <p style="font-size: 22px;">{{dt_aio.timing}}</p>
+            <p style="font-size: 22px;">{{dt_aio.timing}} test</p>
               
         </div>
         <div :style="{'position': 'absolute','top': '197px','left': '1417px','display':'inline-table'}">
