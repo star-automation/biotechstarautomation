@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/staritek/public_html/
+    - export DEPLOYPATH=/home3/starauto/public_html/
     - /bin/cp * $DEPLOYPATH
